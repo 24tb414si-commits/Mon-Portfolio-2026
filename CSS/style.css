@@ -227,5 +227,8 @@ footer a {
 
 footer a:hover {
     color: var(--orange-vif);
-    transform: translate(-3px);
+    transform: translate(-3px)
+
 }
+
+
